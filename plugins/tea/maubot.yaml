@@ -1,0 +1,13 @@
+id: xyz.maubot.tea
+version: 1.4.0
+modules:
+- tea
+main_class: Tea 
+maubot: 0.1.0
+database: false
+config: false
+webapp: false
+license: MIT
+extra_files: []
+dependencies: []
+soft_dependencies: []
