@@ -1,0 +1,13 @@
+id: xyz.maubot.help
+version: 1.0.0
+modules:
+- help
+main_class: Help
+maubot: 0.1.0
+database: false
+config: false
+webapp: false
+license: MIT
+extra_files: []
+dependencies: []
+soft_dependencies: []
