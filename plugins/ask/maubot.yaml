@@ -1,0 +1,13 @@
+id: xyz.maubot.ask
+version: 1.0.0
+modules:
+- ask
+main_class: Ask
+maubot: 0.1.0
+database: false
+config: false
+webapp: false
+license: MIT
+extra_files: []
+dependencies: []
+soft_dependencies: []
